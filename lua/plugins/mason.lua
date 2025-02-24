@@ -11,6 +11,12 @@ return {
       -- docker
       "docker-compose-language-service",
       "dockerfile-language-server",
+
+      -- java
+      "jdtls",
+
+      -- yaml
+      "yaml-language-server",
     },
   },
 }
